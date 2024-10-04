@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_KhachSan", "QL_KhachSan\QL_KhachSan.csproj", "{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{427C94AA-F577-4CC4-8F6B-2337C57FF21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427C94AA-F577-4CC4-8F6B-2337C57FF21F}.Debug|Any CPU.ActiveCfg = Debug
+		{427C94AA-F577-4CC4-8F6B-2337C57FF21F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD20FE1A-283C-4FC3-BA8D-3A63985A0A79}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,64 @@
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe.config
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.pdb
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\Guna.UI2.dll
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.AssemblyReference.cache
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmDangNhap.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Properties.Resources.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.GenerateResource.cache
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CoreCompileInputs.cache
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_Khach.BD06C0C0.Up2Date
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.exe
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.pdb
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmLoadMain.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmTrangChu.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmMain.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FormPhong.FrmPhong.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmDatPhong.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmQLPhong.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmHoaDon.resources
+D:\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmKhach.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe.config
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.pdb
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\bin\Debug\Guna.UI2.dll
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.AssemblyReference.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmHoaDon.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmKhach.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmDangNhap.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmLoadMain.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmMain.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmTrangChu.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmDatPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FormPhong.FrmPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmQLPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Properties.Resources.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.GenerateResource.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CopyComplete
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.exe
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.pdb
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.DichVu.FrmQLDichVu.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\QL_Khách_sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmLoaiPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe.config
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.pdb
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\bin\Debug\Guna.UI2.dll
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.AssemblyReference.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.DichVu.FrmQLDichVu.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmHoaDon.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.HoaDon.FrmKhach.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmDangNhap.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmLoadMain.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmMain.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FrmMain.FrmTrangChu.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmDatPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmLoaiPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.FormPhong.FrmPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Phong.FrmQLPhong.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Properties.Resources.resources
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.GenerateResource.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CopyComplete
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.exe
+D:\Tài liệu HT\TLHT Nam 3\Đồ án 1\Nhóm 3- Quản lý Khách Sạn\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.pdb

@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|d:\\ql_kh\u00E1ch_s\u1EA1n\\ql_khachsan\\ql_khachsan\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\main\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\hoadon\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\hoadon\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\phong\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\phong\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\ql_khachsan\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6A497-1EEC-460C-82D8-9ED88B2700FA}|QL_KhachSan\\QL_KhachSan.csproj|solutionrelative:ql_khachsan\\hoadon\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Phong\\FrmDatPhong.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\Phong\\FrmDatPhong.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Phong\\FrmDatPhong.cs [Design]",
+              "RelativeToolTip": "QL_KhachSan\\Phong\\FrmDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:59:27.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\Main\\FrmMain.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmMain.cs [Design]",
+              "RelativeToolTip": "QL_KhachSan\\Main\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:09:47.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\Main\\FrmMain.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmMain.cs",
+              "RelativeToolTip": "QL_KhachSan\\Main\\FrmMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAnwEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:56:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "QL_KhachSan\\Main\\FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:13:04.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "RelativeToolTip": "QL_KhachSan\\Main\\FrmDangNhap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:41:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmKhach.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmKhach.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\HoaDon\\FrmKhach.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmKhach.cs [Design]",
+              "RelativeToolTip": "QL_KhachSan\\HoaDon\\FrmKhach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmHoaDon.cs [Design]",
+              "RelativeToolTip": "QL_KhachSan\\HoaDon\\FrmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:13:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmHoaDon.cs",
+              "DocumentMoniker": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "ToolTip": "D:\\QL_Kh\u00E1ch_s\u1EA1n\\QL_KhachSan\\QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "RelativeToolTip": "QL_KhachSan\\HoaDon\\FrmHoaDon.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:06:25.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
